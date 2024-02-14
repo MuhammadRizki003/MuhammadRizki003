@@ -13,7 +13,7 @@
 
 - I’m currently on a journey to build **great** things
 
-- I’m currently learning **everything** 🤓
+- I’m currently learning **everything**
 
 - I’m looking for help with **finding projects to contribute to!**
 
@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </div>
 <div align="center">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/MuhammadRizki003">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadRizki003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadRizki003&layout=compact&theme=algolia"/>
 </a>
