@@ -1,4 +1,6 @@
-<img src="https://media1.tenor.com/m/TFEgGpmxJ2EAAAAC/nagatoro.gif" width="100%" height="auto">
+<div align="center">
+	<img src="https://media1.tenor.com/m/TFEgGpmxJ2EAAAAC/nagatoro.gif">
+</div>
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=30&pause=1000&color=F71149&random=false&width=438&lines=Hello%2C+I+am+Muhammad+Rizki+%3A)" alt="Typing SVG" /></div>
 <details>
 	<summary><h2>More about me</h2></summary>
@@ -31,10 +33,10 @@
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </div>
-<div align="center">
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizki003&theme=dark&hide_border=true">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadrizki003&theme=dark&show_icons=true&hide_border=true&count_private=true">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizki003&theme=dark&show_icons=true&hide_border=true&layout=compact">
+<div align="center">  
+<img  src="https://github-readme-stats.vercel.app/api?username=muhammadrizki003&theme=dark&show_icons=true&hide_border=true&count_private=true">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizki003&theme=dark&hide_border=true">
+<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizki003&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <br><br>
