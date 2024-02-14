@@ -7,7 +7,7 @@
 
 - <b>Gender:</b> Male
 
-- <b>Hobbys:</b> Tech Stuff, Audio Stuff, Games & Music, Web & Mobile Development
+- <b>Hobbys:</b> Tech Stuff, Audio Stuff, Games , Web & Mobile Development
 
 - I’m currently on a journey to build **great** things
 
@@ -17,7 +17,7 @@
 
 - I’m looking for help with **finding projects to contribute to!**
 
-- 📫 Reach me out at Instagram **@only.rizki**
+- Reach me out on my Instagram **@only.rizki**
 
 </details>
 <h2 align="center">            - My Knowledge -</h2>
@@ -33,11 +33,13 @@
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </div>
-<div align="center">  
-<img  src="https://github-readme-stats.vercel.app/api?username=muhammadrizki003&theme=dark&show_icons=true&hide_border=true&count_private=true">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizki003&theme=dark&hide_border=true">
-<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizki003&theme=dark&show_icons=true&hide_border=true&layout=compact">
+<div align="center">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadRizki003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadRizki003&layout=compact&theme=algolia"/>
+</a>
 </div>
+
 
 <br><br>
 <br>
